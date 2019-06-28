@@ -192,3 +192,5 @@ C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusi
 C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csproj.CopyComplete
 C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.TableCart.resources
+C:\Users\manh.nguyentien\Desktop\MVCNew\music-store-master\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.Migrations.CartsTable.resources
